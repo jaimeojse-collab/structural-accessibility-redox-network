@@ -1,4 +1,5 @@
 # Structural Accessibility Boundaries and Recoverability in a Minimal H–O Redox Network Model
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19123634.svg)](https://doi.org/10.5281/zenodo.19123634)
 
 This repository contains the full computational reproduction of a minimal H–O redox network model exploring structural accessibility and recoverability.
 
@@ -74,6 +75,16 @@ This work complements a prior dynamical model on rate-dependent recoverability.
 
 This model is presented as a testable structural hypothesis.
 Results may change under modifications to network topology or transition weights.
+
+⸻
+
+## Citation
+
+If you use this work, please cite:
+
+Ojeda, J. (2026).  
+Structural Accessibility Boundaries and Recoverability in a Minimal H–O Redox Network Model.  
+Zenodo. https://doi.org/10.5281/zenodo.19123634
 
 ⸻
 
